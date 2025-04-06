@@ -25,3 +25,11 @@ A Java application for MCQ-based quizzes with role-based login.
 4. Login using:
    - Admin: `admin` / `1234`
    - Student: `salman` / `1234`
+
+
+
+## How it works:
+
+
+https://github.com/user-attachments/assets/8d332430-080c-40a6-b98a-1fe77735d67a
+
