@@ -1,0 +1,66 @@
+[
+  {
+    "question": "Which of the following is not included in failure costs?",
+    "option 1": "rework",
+    "option 2": "repair",
+    "option 3": "failure mode analysis",
+    "option 4": "none of the mentioned",
+    "answerkey": 4
+  },
+  {
+    "question": "Which requirements are the foundation from which quality is measured?",
+    "option 1": "Hardware",
+    "option 2": "Software",
+    "option 3": "Programmers",
+    "option 4": "None of the mentioned",
+    "answerkey": 2
+  },
+  {
+    "question": "Which of the following is not a SQA plan for a project?",
+    "option 1": "evaluations to be performed",
+    "option 2": "amount of technical work",
+    "option 3": "audits and reviews to be performed",
+    "option 4": "documents to be produced by the SQA group",
+    "answerkey": 2
+  },
+  {
+    "question": "Degree to which design specifications are followed in manufacturing the product is called",
+    "option 1": "Quality Control",
+    "option 2": "Quality of conformance",
+    "option 3": "Quality Assurance",
+    "option 4": "None of the mentioned",
+    "answerkey": 2
+  },
+  {
+    "question": "Which of the following is not included in External failure costs?",
+    "option 1": "testing",
+    "option 2": "help line support",
+    "option 3": "warranty work",
+    "option 4": "complaint resolution",
+    "answerkey": 1
+  },
+  {
+    "question": "Which of the following is not an appraisal cost in SQA?",
+    "option 1": "inter-process inspection",
+    "option 2": "maintenance",
+    "option 3": "quality planning",
+    "option 4": "testing",
+    "answerkey": 3
+  },
+  {
+    "question": "Who identifies, documents, and verifies that corrections have been made to the software?",
+    "option 1": "Project manager",
+    "option 2": "Project team",
+    "option 3": "SQA group",
+    "option 4": "All of the mentioned",
+    "answerkey": 3
+  },
+  {
+    "question": "The primary objective of formal technical reviews is to find _________ during the process so that they do not become defects after release of the software.",
+    "option 1": "errors",
+    "option 2": "equivalent faults",
+    "option 3": "failure cause",
+    "option 4": "none of the mentioned",
+    "answerkey": 1
+  }
+]
